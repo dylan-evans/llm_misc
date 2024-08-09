@@ -2,8 +2,8 @@
   "name": "llm_misc Dev Container",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "build": {
-    "dockerfile": "/workspaces/llm_misc/.devcontainer/Dockerfile",
-    "context": "."
+    "dockerfile": "Dockerfile",
+    "context": ".."
   },
   "settings": {
     "terminal.integrated.defaultProfile.linux": "bash"
