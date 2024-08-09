@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # required for pydantic
-curl https://sh.rustup.rs -sSf | sh -- -y
+curl https://sh.rustup.rs -sSf | bash -s -- -y
 
 PATH="/root/.cargo/bin:${PATH}"
 
