@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+find_packages = true
+
+[tool.setuptools.metadata]
+name = "llm_misc"
+version = "0.1.0"
+author = "Your Name"
+author_email = "your@email.com"
+description = "Description of your project"
+license = "GPL3"
