@@ -10,7 +10,7 @@
     "ms-python.python",
     "ms-azuretools.vscode-docker"
   ],
-  "postCreateCommand": "setup.sh",
+  "postCreateCommand": "/workspaces/llm_misc/.devcontainer/setup.sh",
   "remoteUser": "vscode",
   "mounts": [
     "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
