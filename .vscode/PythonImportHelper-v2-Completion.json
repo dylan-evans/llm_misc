@@ -1,0 +1,401 @@
+[
+    {
+        "label": "PersistentClient",
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "isExtraImport": true,
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "singledispatch",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "singledispatchmethod",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_args",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "litellm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "litellm",
+        "description": "litellm",
+        "detail": "litellm",
+        "documentation": {}
+    },
+    {
+        "label": "wrapt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wrapt",
+        "description": "wrapt",
+        "detail": "wrapt",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncOpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatCompletionMessageParam",
+        "importPath": "openai.types.chat.chat_completion_message_param",
+        "description": "openai.types.chat.chat_completion_message_param",
+        "isExtraImport": true,
+        "detail": "openai.types.chat.chat_completion_message_param",
+        "documentation": {}
+    },
+    {
+        "label": "ChatCompletion",
+        "importPath": "openai.types.chat.chat_completion",
+        "description": "openai.types.chat.chat_completion",
+        "isExtraImport": true,
+        "detail": "openai.types.chat.chat_completion",
+        "documentation": {}
+    },
+    {
+        "label": "ChatCompletionMessage",
+        "importPath": "openai.types.chat.chat_completion_message",
+        "description": "openai.types.chat.chat_completion_message",
+        "isExtraImport": true,
+        "detail": "openai.types.chat.chat_completion_message",
+        "documentation": {}
+    },
+    {
+        "label": "ChatCompletionMessageToolCall",
+        "importPath": "openai.types.chat.chat_completion_message_tool_call",
+        "description": "openai.types.chat.chat_completion_message_tool_call",
+        "isExtraImport": true,
+        "detail": "openai.types.chat.chat_completion_message_tool_call",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "isExtraImport": true,
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "MessageLog",
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "isExtraImport": true,
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "Completion",
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "isExtraImport": true,
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "isExtraImport": true,
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "Resources",
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "isExtraImport": true,
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "ChromaDBWrapper",
+        "kind": 6,
+        "importPath": "llm_misc.resources.chromadb",
+        "description": "llm_misc.resources.chromadb",
+        "peekOfCode": "class ChromaDBWrapper:\n    def __init__(self, config: Config):\n        self.client = PersistentClient(path=config.db.path)\n    def get_collection(self, name):\n        return self.client.get_or_create_collection(name)",
+        "detail": "llm_misc.resources.chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "DBConfig",
+        "kind": 6,
+        "importPath": "llm_misc.resources.config",
+        "description": "llm_misc.resources.config",
+        "peekOfCode": "class DBConfig(BaseModel):\n    path: str\nclass Config(BaseModel):\n    db: DBConfig",
+        "detail": "llm_misc.resources.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "llm_misc.resources.config",
+        "description": "llm_misc.resources.config",
+        "peekOfCode": "class Config(BaseModel):\n    db: DBConfig",
+        "detail": "llm_misc.resources.config",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "kind": 6,
+        "importPath": "llm_misc.tools.base",
+        "description": "llm_misc.tools.base",
+        "peekOfCode": "class Tool(BaseModel):\n    \"\"\"\n    The base class for tool functions.\n    \"\"\"\n    @classmethod\n    def get_tool_name(cls) -> str:\n        return cls.__name__\n    @classmethod\n    def get_tool_function(cls):\n        return {",
+        "detail": "llm_misc.tools.base",
+        "documentation": {}
+    },
+    {
+        "label": "MessageLog",
+        "kind": 6,
+        "importPath": "llm_misc.agent",
+        "description": "llm_misc.agent",
+        "peekOfCode": "class MessageLog:\n    \"\"\"\n    The MessageLog tracks and persists message histories.\n    \"\"\"\n    def __init__(self, res: Resources, system: str | None = None, log_id = str | None):\n        self.res = res\n        self.system_message = system\n        self.log_id = log_id or uuid4().hex\n        self.log = []\n        if system:",
+        "detail": "llm_misc.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentStep",
+        "kind": 6,
+        "importPath": "llm_misc.agent",
+        "description": "llm_misc.agent",
+        "peekOfCode": "class AgentStep:\n    def __init__(self, index, name, callback, next_step):\n        self.index = index\n        self.name = name\n        self.callback = callback\n        self.next_step = next_step\nclass AgentPipeline:\n    def __init__(self, agent: \"Agent\", input: str):\n        self.agent = agent\n        self._next_step = agent.steps[0]",
+        "detail": "llm_misc.agent",
+        "documentation": {}
+    },
+    {
+        "label": "AgentPipeline",
+        "kind": 6,
+        "importPath": "llm_misc.agent",
+        "description": "llm_misc.agent",
+        "peekOfCode": "class AgentPipeline:\n    def __init__(self, agent: \"Agent\", input: str):\n        self.agent = agent\n        self._next_step = agent.steps[0]\n    @property\n    def next_step(self) -> AgentStep | None:\n        return self._next_step\n    @next_step.setter\n    def next_step(self, value: str | int | AgentStep):\n        if isinstance(value, AgentStep):",
+        "detail": "llm_misc.agent",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 6,
+        "importPath": "llm_misc.agent",
+        "description": "llm_misc.agent",
+        "peekOfCode": "class Agent:\n    def __init__(self, res: Resources):\n        self.res = res\n        self.steps = []\n        self._step_names = {}\n    def get_step(self, step_id: str | int):\n        if isinstance(step_id, str):\n            return self._step_names(step_id)\n        return self.steps[step_id]\n    @wrapt.decorator",
+        "detail": "llm_misc.agent",
+        "documentation": {}
+    },
+    {
+        "label": "MessageLog",
+        "kind": 6,
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "peekOfCode": "class MessageLog:\n    \"\"\"\n    The MessageLog tracks and persists message histories.\n    \"\"\"\n    def __init__(self, res: Resources, system: str | None = None, log_id = str | None):\n        self.res = res\n        self.system_message = system\n        self.log_id = log_id or uuid4().hex\n        self._log = []\n        if system:",
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "Completion",
+        "kind": 6,
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "peekOfCode": "class Completion:\n    \"\"\"\n    A simple openai wrapper in order to decouple from openai.\n    \"\"\"\n    def __init__(self, openai: AsyncOpenAI | None = None):\n        self._openai = openai or AsyncOpenAI()\n    @singledispatchmethod\n    async def send(self, messages: list[ChatCompletionMessageParam], **kwargs) -> ChatCompletion:\n        return await self._openai.chat.completions.create(\n            messages=messages,",
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "kind": 6,
+        "importPath": "llm_misc.completion",
+        "description": "llm_misc.completion",
+        "peekOfCode": "class Chat:\n    \"\"\"\n    Chat adds a MessageLog to track and persist conversations and\n    Tools in order to provide additional functionality.\n    \"\"\"\n    tools: dict[str, Tool]\n    def __init__(self,\n                 res: Resources,\n                 system: str | None = None,\n                 /,",
+        "detail": "llm_misc.completion",
+        "documentation": {}
+    },
+    {
+        "label": "mock_tool",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def mock_tool():\n    return MagicMock(spec=Tool)\n@pytest.fixture\ndef mock_completion():\n    return MagicMock(spec=Completion)\n@pytest.fixture\ndef mock_message_log():\n    return MagicMock(spec=MessageLog)\n@pytest.fixture\ndef chat(mock_tool, mock_completion, mock_message_log):",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    },
+    {
+        "label": "mock_completion",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def mock_completion():\n    return MagicMock(spec=Completion)\n@pytest.fixture\ndef mock_message_log():\n    return MagicMock(spec=MessageLog)\n@pytest.fixture\ndef chat(mock_tool, mock_completion, mock_message_log):\n    res = get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}}))\n    return Chat(res, tools=[mock_tool], completion=mock_completion, message_log=mock_message_log)\ndef test_basic_completion():",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    },
+    {
+        "label": "mock_message_log",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def mock_message_log():\n    return MagicMock(spec=MessageLog)\n@pytest.fixture\ndef chat(mock_tool, mock_completion, mock_message_log):\n    res = get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}}))\n    return Chat(res, tools=[mock_tool], completion=mock_completion, message_log=mock_message_log)\ndef test_basic_completion():\n    comp = Completion()\n    response = asyncio.run(comp.send([{\"role\": \"user\", \"content\": \"Hello\"}], model=\"gpt-4o-mini\"))\n    assert response.choices[0].message.content",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def chat(mock_tool, mock_completion, mock_message_log):\n    res = get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}}))\n    return Chat(res, tools=[mock_tool], completion=mock_completion, message_log=mock_message_log)\ndef test_basic_completion():\n    comp = Completion()\n    response = asyncio.run(comp.send([{\"role\": \"user\", \"content\": \"Hello\"}], model=\"gpt-4o-mini\"))\n    assert response.choices[0].message.content\n    assert response.choices[0].finish_reason == \"stop\"\ndef test_basic_chat():\n    chat = Chat(get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}})), model=\"gpt-4o-mini\")",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    },
+    {
+        "label": "test_basic_completion",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def test_basic_completion():\n    comp = Completion()\n    response = asyncio.run(comp.send([{\"role\": \"user\", \"content\": \"Hello\"}], model=\"gpt-4o-mini\"))\n    assert response.choices[0].message.content\n    assert response.choices[0].finish_reason == \"stop\"\ndef test_basic_chat():\n    chat = Chat(get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}})), model=\"gpt-4o-mini\")\n    response = asyncio.run(chat.send(\"Hello\"))\n    assert response.content\n    assert response.finish_reason == \"stop\"",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    },
+    {
+        "label": "test_basic_chat",
+        "kind": 2,
+        "importPath": "llm_misc.test_completion",
+        "description": "llm_misc.test_completion",
+        "peekOfCode": "def test_basic_chat():\n    chat = Chat(get_resources(Config.model_validate({\"db\": {\"path\": \"/workspaces/db\"}})), model=\"gpt-4o-mini\")\n    response = asyncio.run(chat.send(\"Hello\"))\n    assert response.content\n    assert response.finish_reason == \"stop\"\n    response = asyncio.run(chat.send(\"How are you?\"))\n    assert response.content\n    assert response.finish_reason == \"stop\"",
+        "detail": "llm_misc.test_completion",
+        "documentation": {}
+    }
+]

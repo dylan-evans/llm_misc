@@ -2,13 +2,20 @@
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.setuptools]
-find_packages = true
-
-[tool.setuptools.metadata]
+[project]
 name = "llm_misc"
 version = "0.1.0"
-author = "Your Name"
-author_email = "your@email.com"
-description = "Description of your project"
-license = "GPL3"
+authors = [
+    {name = "D. Evans", email = "dylan@dje.me"}
+]
+description = "Misc LLM code"
+dependencies = [
+    "openai",
+    "pydantic",
+    "rich",
+    "panel",
+    "newspaper3",
+]
+
+[tools.setuptools]
+packages = ["llm_misc"]
