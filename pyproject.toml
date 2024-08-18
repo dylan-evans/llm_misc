@@ -14,7 +14,7 @@ dependencies = [
     "pydantic",
     "rich",
     "panel",
-    "newspaper3",
+    "newspaper3k",
 ]
 
 [tools.setuptools]
